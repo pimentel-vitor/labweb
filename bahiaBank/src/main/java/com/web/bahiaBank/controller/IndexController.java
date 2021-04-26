@@ -1,4 +1,4 @@
-package com.web.controller;
+package com.web.bahiaBank.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
